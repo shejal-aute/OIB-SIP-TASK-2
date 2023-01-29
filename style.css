@@ -449,7 +449,7 @@ nav ul .fa {
         font-size: 16px;
         margin-right: 20px;
     }
-.contact-left,.contact-right {
+.contact-left, .contact-right {
         flex-basis: 100%;
     }
 
